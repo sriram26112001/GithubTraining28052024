@@ -1,0 +1,1 @@
+allows train to work on a particular track section
