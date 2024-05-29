@@ -1,3 +1,4 @@
 it is for foremen to work safely on the track
 TOP has restrictive  protection
-represented as a dark blue colour
+represented as a dark blue color
+you cannot clear a top area
